@@ -1,0 +1,14 @@
+Sunny,Hot,High,False,no
+Sunny,Hot,High,True,no
+Overcast,Hot,High,False,yes
+Rain,Mild,High,False,yes
+Rain,Cool,Normal,False,yes
+Rain,Cool,Normal,True,no
+Overcast,Cool,Normal,True,yes
+Sunny,Mild,High,False,no
+Sunny,Cool,Normal,False,yes
+Rain,Mild,Normal,False,yes
+Sunny,Mild,Normal,True,yes
+Overcast,Mild,High,True,yes
+Overcast,Hot,Normal,False,yes
+Rain,Mild,High,True,no
