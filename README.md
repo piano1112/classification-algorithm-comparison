@@ -2,7 +2,7 @@
 
 Custom implementations of **Naive Bayes** and **Decision Tree** classifiers built from scratch in Python — no scikit-learn, no libraries. Benchmarked on the Pima Indians Diabetes dataset to predict diabetes onset from clinical measurements.
 
-Built as part of COMP3608 (AI) at the University of Sydney.
+Built as part of COMP3608 (Introduction to AI (Advanced)) at the University of Sydney.
 
 ## Algorithms
 
